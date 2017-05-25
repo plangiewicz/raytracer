@@ -14,6 +14,7 @@
 #include "Camera.h"
 #include "Sfera.h"
 #include "Triangle.h"
+#include "Mesh.h"
 #include "Scene.h"
 #include "RayTracer.h"
 using namespace glm;
